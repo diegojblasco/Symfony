@@ -1,0 +1,5 @@
+index:
+  path: /
+  controller: App\Controller\DeportesController::inicio
+  path: /
+    controller: App\Controller\DeportesController::mostrar
